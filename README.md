@@ -1,3 +1,3 @@
 # cs2-memory-dump-update
 updated memory files for CS2
-Crdits to https://github.com/a2x
+Credits to https://github.com/a2x
